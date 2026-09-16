@@ -4,6 +4,10 @@ A demo airline management system: a travel agent tracks the flight network and m
 passenger reservations end to end. Built with **Streamlit** on top of a **SQLite** database
 filled with deterministic synthetic data.
 
+### 🚀 [Open the live app](https://ravideliav-zivairlines-app-3lexvz.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ravideliav-zivairlines-app-3lexvz.streamlit.app/)
+
 <p align="center">
   <img src="docs/screenshots/01-home.png" alt="ZivAirLines home page" width="900">
 </p>
@@ -26,6 +30,9 @@ filled with deterministic synthetic data.
 ---
 
 ## Quickstart
+
+No install needed — the app is live at
+<https://ravideliav-zivairlines-app-3lexvz.streamlit.app/>. To run it locally:
 
 ```powershell
 git clone https://github.com/RavidEliav/ZivAirLines.git
