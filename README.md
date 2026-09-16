@@ -28,6 +28,9 @@ filled with deterministic synthetic data.
 ## Quickstart
 
 ```powershell
+git clone https://github.com/RavidEliav/ZivAirLines.git
+cd ZivAirLines
+
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 
